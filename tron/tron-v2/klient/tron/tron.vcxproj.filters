@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Source">
+      <UniqueIdentifier>{24ae6218-4fc4-4ac3-b41b-cc9b3450f9ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Board.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Player.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Texture.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Screens.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\communication.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\TexturesPack.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Window.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Menu.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Font.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\tron_lib\Timer.cpp">
+      <Filter>Header Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\tron_lib\Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Screens.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\communication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\TexturesPack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Font.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DefinesSDL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\tron_lib\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

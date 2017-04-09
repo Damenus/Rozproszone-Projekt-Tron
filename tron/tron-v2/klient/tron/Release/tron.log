@@ -1,0 +1,22 @@
+﻿  Board.cpp
+  communication.cpp
+  Font.cpp
+  Menu.cpp
+c:\users\franek\desktop\tronisko\tron\tron-v2\tron_lib\Menu.h(34): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+  Player.cpp
+  Screens.cpp
+c:\users\franek\desktop\tronisko\tron\tron-v2\tron_lib\Menu.h(34): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+..\..\tron_lib\Screens.cpp(160): warning C4129: '.' : unrecognized character escape sequence
+  Texture.cpp
+  TexturesPack.cpp
+  Timer.cpp
+  Window.cpp
+..\..\tron_lib\Window.cpp(35): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+..\..\tron_lib\Window.cpp(187): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+..\..\tron_lib\Window.cpp(200): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\franek\desktop\tronisko\tron\tron-v2\tron_lib\Menu.h(34): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+main.cpp(76): warning C4101: 'myDirection' : unreferenced local variable
+  Generating code
+  Finished generating code
+  tron.vcxproj -> C:\Users\Franek\Desktop\tronisko\tron\tron-v2\klient\Release\tron.exe
